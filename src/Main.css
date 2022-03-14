@@ -1,0 +1,24 @@
+*{
+    background-color: aqua;
+}
+.Mainsec{
+    display: flex;    
+}
+.Mainsec h2{
+    margin-left: 50px;
+}
+.bit{
+ border: 2px solid;
+ text-align: center;
+ width: 300px;
+ margin-top: 100px;
+}
+#syna{
+    display: flex;
+    justify-content: space-around;
+    line-height: 50px;
+}
+#price{
+   position: relative;
+   right: 40px;
+}
